@@ -7,8 +7,6 @@ import IconVue from './icons/IconVue.vue'
   <footer class="bd-footer fixed-bottom py-4 py-md-5 mt-5 bg-body-tertiary">
     <div class="container py-4 py-md-5 px-4 px-md-3 text-body-secondary">
       <hr />
-      <p></p>
-      <hr />
       <div class="row">
         <div class="col-lg-3 mb-3"></div>
         <div class="col-6 col-lg-2 offset-lg-1 mb-3">

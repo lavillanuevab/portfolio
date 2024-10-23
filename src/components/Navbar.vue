@@ -3,7 +3,7 @@
 <template>
   <nav class="navbar navbar-expand-lg bd-navbar sticky-top navbar-dark bg-dark">
     <div class="container-fluid">
-      <a class="navbar-brand" href="\">Leonardo Villanueva</a>
+      <Router-Link to="/" class="navbar-brand">Leonardo Villanueva</Router-Link>
       <button
         class="navbar-toggler"
         type="button"
