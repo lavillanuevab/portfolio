@@ -1,9 +1,16 @@
 <script setup lang="ts">
-import HelloWorld from '../components/HelloWorld.vue'
+
 </script>
 
 <template>
   <div>
-    <h1><HelloWorld msg="Hi There!, I'm Leonardo" /></h1>
+    <h1>
+      <p>
+        Hi There!, I'm Leonardo
+      </p>
+    </h1>
+
+    <p>Computer systems engineering
+    </p>
   </div>
 </template>

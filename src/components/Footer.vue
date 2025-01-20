@@ -4,7 +4,7 @@ import IconVue from './icons/IconVue.vue'
 </script>
 
 <template>
-  <footer class="bd-footer fixed-bottom py-4 py-md-5 mt-5 bg-body-tertiary">
+  <!--<footer class="bd-footer fixed-bottom py-4 py-md-5 mt-5 bg-body-tertiary">
     <div class="container py-4 py-md-5 px-4 px-md-3 text-body-secondary">
       <hr />
       <div class="row">
@@ -43,7 +43,8 @@ import IconVue from './icons/IconVue.vue'
         </div>
       </div>
     </div>
-  </footer>
+  </footer> -->
+
 </template>
 
 <style scoped></style>

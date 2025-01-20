@@ -8,7 +8,6 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
-  //base: process.env.BASE,
   base: '/portfolio/',
   resolve: {
     alias: {
