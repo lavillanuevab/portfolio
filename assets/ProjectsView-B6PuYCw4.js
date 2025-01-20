@@ -1,1 +1,0 @@
-import{_ as o,c as t,a as r,o as n}from"./index-DeQebZJN.js";const c={};function s(a,e){return n(),t("div",null,e[0]||(e[0]=[r("h1",null,"Proyects",-1),r("p",null,"Here are a few projects I've worked on recently.",-1)]))}const f=o(c,[["render",s]]);export{f as default};

@@ -1,1 +1,0 @@
-import{_ as s,c as n,a as o,o as r}from"./index-DeQebZJN.js";const t={};function a(c,e){return r(),n("div",null,e[0]||(e[0]=[o("h1",null,"Resume",-1)]))}const u=s(t,[["render",a]]);export{u as default};
